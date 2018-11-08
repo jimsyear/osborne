@@ -75,9 +75,7 @@ h5 {
 a {
 	text-decoration: none;
 }
-img {
-	max-width: 100%;
-}
+
 select {
   padding: 6px;
   height: 32px;
@@ -213,6 +211,12 @@ label.light {
 
 .default {
   background-color: #55ba52; 
+}
+
+#map {
+  height: 400px;  /* The height is 400 pixels */
+  width: 400px;  /* The width is the width of the web page */
+  border-radius: 5%;
 }
 
 /* ---- Psuedo Elements ---- */
