@@ -1,0 +1,20 @@
+{
+  "name": "osborneapp",
+  "version": "1.0.0",
+  "description": "application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "james mclaughlin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "node": "^11.7.0",
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.18.9",
+    "nvm": "0.0.4"
+  }
+}
